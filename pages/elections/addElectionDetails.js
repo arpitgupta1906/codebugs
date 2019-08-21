@@ -24,7 +24,7 @@ class addElectionDetails extends Component{
   		</div>
 		
   		<div class="content">
-			<Link route="/elections/createVoterList">
+			<Link route="/elections/createCandidateList">
 				<a>
 			<button class="fluid ui black button">
   				<i class="user icon"></i>
